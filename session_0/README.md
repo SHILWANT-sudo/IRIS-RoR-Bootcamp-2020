@@ -16,7 +16,7 @@ Rails. You can refer to books on programming or websites like
 [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/).
 
 > Read the [installation guide](/installation.md) and [setting up local
-> workspace](/essential_git.md) to get started.
+> workspace](/essential_git.md) to  started.
 
 ## Fizz Buzz
 
